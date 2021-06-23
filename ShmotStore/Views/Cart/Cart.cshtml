@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ShmotStore.Models.Product>
+<div class="container">
+    @{double sum = 0;}
+    @foreach (var el in Model)
+    {
+
+
+        <div class="container mt-3">
+            <div class="row">
+                <div class="col-lg-2">
+                    <img class="img-thumbnail" src="@el.Image" alt="@el.Name" />
+                </div>
+                <div class="col-lg">
+                    <h2>
+                        @el.Name @el.Production
+                    </h2>
+                    <h4>Цена: </h4><h6>@el.Price BYN</h6>
+                    @{
+                        sum += el.Price;
+                    }
+                    <h4>Размер: </h4><h6>@el.Size</h6>
+                    <h4>Описание: </h4><p>@el.Desc</p>
+                </div>
+            </div>
+                <a asp-controller="Cart" asp-action="DeleteFromCart" asp-route-Id="@el.Id">Удалить</a>
+        </div>
+
+                        }
+    <hr />
+    <div>
+        <h4>Сумма к оплате: </h4><h6>@Math.Round(sum,2) BYN</h6>
+    </div>
+    <div>
+        <a class="btn btn-outline-primary mt-2 mb-2" asp-controller="Cart" asp-action="UserData">Оформить заказ</a>
+    </div>
+    <div class="btn btn-danger">
+        <a asp-controller="Cart" asp-action="DeleteAllFromCart" style="color:white">Удалить все</a>
+    @{ sum = 0;}
+    </div>
+</div>

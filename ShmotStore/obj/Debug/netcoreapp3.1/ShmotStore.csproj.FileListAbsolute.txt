@@ -1,0 +1,358 @@
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.exe
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csprojAssemblyReference.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfoInputs.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfo.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.input.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.output.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorCoreGenerate.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.Manifest.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.xml
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.deps.json
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.json
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.dev.json
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CopyComplete
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.genruntimeconfig.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CoreCompileInputs.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Data.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Egor\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListCartUser.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.exe
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.deps.json
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.json
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.dev.json
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csprojAssemblyReference.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfo.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.Manifest.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.xml
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShmotStore.styles.css
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.input.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.output.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorCoreGenerate.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Data.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListCartUser.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CopyComplete
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.dll
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.pdb
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.genruntimeconfig.cache
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\UserData.cshtml.g.cs
+C:\Users\Егор\Desktop\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\OrderUser.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.exe
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.deps.json
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.json
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.dev.json
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfoInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfo.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.Manifest.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.xml
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShmotStore.styles.css
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.input.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.output.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorCoreGenerate.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Data.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListCartUser.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\OrderUser.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\UserData.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cache
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cs
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CopyComplete
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.dll
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.pdb
+C:\Users\natal\OneDrive\Рабочий стол\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.genruntimeconfig.cache
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.exe
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.deps.json
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.json
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.runtimeconfig.dev.json
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.pdb
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\ShmotStore\ShmotStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csprojAssemblyReference.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfoInputs.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.AssemblyInfo.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CoreCompileInputs.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorAssemblyInfo.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.Manifest.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\staticwebassets\ShmotStore.StaticWebAssets.xml
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShmotStore.styles.css
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.input.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.TagHelpers.output.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorCoreGenerate.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddProduct.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Data.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ListCartUser.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Admin\OrderUser.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Cart.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Cart\UserData.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Details.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cache
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.RazorTargetAssemblyInfo.cs
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.Views.pdb
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.csproj.CopyComplete
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.dll
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.pdb
+D:\Projects\ShmotStore\ShmotStore\obj\Debug\netcoreapp3.1\ShmotStore.genruntimeconfig.cache

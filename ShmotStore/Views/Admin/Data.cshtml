@@ -1,0 +1,31 @@
+﻿@model IEnumerable<ShmotStore.Models.Product>
+@{
+    ViewBag.Title = "SmoteStore";
+}
+<form class="form-group">
+    <div class="form-group row pl-5">
+        <div class="container row mt-5 ml-5">
+            @{
+                foreach (var shmot in Model)
+                {
+                    <div class="col-lg-2 mb-3">
+                        <img class="img-thumbnail" src="@shmot.Image" alt="@shmot.Name" />
+                        <h5>@shmot.Name @shmot.Production</h5>
+                        <h6>@shmot.Price BYN</h6>
+                        <a asp-action="Delete" asp-controller="Admin" asp-route-id="@shmot.Id">Удалить товар</a>
+                        <a asp-action="Edit" asp-controller="Admin" asp-route-id="@shmot.Id">Изменить</a>
+                    </div>
+                }
+            }
+        </div>
+        <div class="ml-5 mt-5">
+            <div class="form-group">
+                <div><a class="btn btn-outline-primary mb-2" href="~/Admin/AddProduct">Добавить товар</a></div>
+            </div>
+            <div class="form-group">
+                <div><a class="btn btn-outline-primary" href="~/Admin/ListCartUser">Корзины пользователей</a></div>
+            </div>
+        </div>
+
+    </div>
+</form>

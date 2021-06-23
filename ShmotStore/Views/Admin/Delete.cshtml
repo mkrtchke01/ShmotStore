@@ -1,0 +1,29 @@
+﻿@model ShmotStore.Models.Product
+@{
+    ViewBag.Title = "Удаление товара";
+}
+
+<div class="ml-5 mr-auto">
+
+    <div class="form-group row mt-3">
+        <div class="col-lg-2 ml-5 w-25">
+
+            <img class="img-thumbnail" src="@Model.Image" alt="@Model.Name" />
+        </div>
+        <div class="form-group w-75">
+            <h5>
+                @Model.Name @Model.Production
+            </h5>
+            <h6>Цена: @Model.Price BYN</h6>
+            <p>Описание: @Model.Desc</p>
+        </div>
+    </div>
+
+    <div class="ml-5">
+        <form asp-controller="Admin" asp-action="Delete" method="post">
+            <div class="form-group">
+                <input type="submit" class="btn btn-outline-danger" value="Удалить" />
+            </div>
+        </form>
+    </div>
+</div>

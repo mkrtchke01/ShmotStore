@@ -1,0 +1,32 @@
+﻿@model IEnumerable<ShmotStore.Models.UserData>
+
+<table class="table table-striped w-50 text-center mx-auto mt-5">
+    <thead>
+        <tr>
+            <th>Имя</th>
+            <th>Фамилия</th>
+            <th>Email</th>
+            <th>Телефон</th>
+            <th>Адрес</th>
+            <th>Индекс</th>
+            <th></th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+        <tr>
+            <td>@user.Name</td>
+            <td>@user.Surname</td>
+            <td>@user.Email</td>
+            <td>@user.Telephone</td>
+            <td>@user.Address</td>
+            <td>@user.Index</td>
+            <td><a class="text-success" asp-action="OrderUser" asp-controller="Admin" asp-route-email="@user.Email"> Корзина </a></td>
+            <td><a class="text-success" asp-action="DeleteTimingCart" asp-controller="Admin" asp-route-email="@user.Email"> Удалить </a></td>
+        </tr>
+            
+        }
+    </tbody>
+</table>

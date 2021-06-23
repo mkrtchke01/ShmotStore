@@ -1,0 +1,49 @@
+﻿@model FilterModel
+
+
+
+
+<div class="form-group row">
+
+    <div class="form-group mb-2 mt-5 ml-5">
+        <form method="get">
+            <div class="mt-5 bg-light pt-3 container-fluid rounded">
+                <label>Гендер:</label>
+                @Html.DropDownList("gender", Model.Genders as SelectList,
+               htmlAttributes: new { @class = "form-control" })
+
+                <label class="mt-2">Сезон:</label>
+                @Html.DropDownList("season", Model.Seasons as SelectList,
+               htmlAttributes: new { @class = "form-control" })
+
+                <input type="submit" value="Фильтр" class="btn btn-outline-success mt-3" />
+                <div>
+                    <a class="btn btn-outline-primary mt-3 mb-2" asp-controller="Home" asp-action="Index">Сбросить фильтры</a>
+                </div>
+            </div>
+        </form>
+        
+    </div>
+
+
+
+    <div class="form-group ml-5 mt-5">
+
+        <div class="container row ml-5 mb-2">
+            @{
+                foreach (var shmot in Model.products)
+                {
+
+                    <div class="col-lg-2 mb-3">
+                        <a asp-action="Details" asp-controller="Home" asp-route-id="@shmot.Id"><img class="img-thumbnail" src="@shmot.Image" alt="@shmot.Name" /></a>
+                        <h5><a class="text-dark" asp-action="Details" asp-controller="Home" asp-route-id="@shmot.Id"> @shmot.Name @shmot.Production</a></h5>
+                        <h6>@shmot.Price BYN</h6>
+                    </div>
+                }
+            }
+
+        </div>
+    </div>
+
+</div>
+

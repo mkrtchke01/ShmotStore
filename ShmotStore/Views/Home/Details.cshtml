@@ -1,0 +1,25 @@
+﻿@model ShmotStore.Models.Product
+
+
+<form asp-action="details" asp-controller="home" asp-route-id="@Model.Id">
+
+    <div class="form-group row mt-3">
+        <div class="col-lg-2 ml-5 w-25">
+
+            <img class="img-thumbnail" src="@Model.Image" alt="@Model.Name" />
+        </div>
+        <div class="form-group w-75">
+            <h5>
+                @Model.Name @Model.Production
+            </h5>
+            <h6>Цена: @Model.Price BYN</h6>
+            <h6>Размер: @Model.Size BYN</h6>
+            <p>Описание: @Model.Desc</p>
+        </div>
+    </div>
+
+    <div class="ml-5">
+        <a class="btn btn-outline-primary mt-2 mb-2" asp-controller="Cart" asp-action="AddCartProduct" asp-route-id="@Model.Id">Добавить в корзину</a>
+    </div>
+
+</form>

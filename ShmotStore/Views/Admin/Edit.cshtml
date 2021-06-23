@@ -1,0 +1,59 @@
+﻿@model ShmotStore.Models.Product
+@{
+    ViewBag.Title = "Редактирование товара";
+}
+<div class="bg-primary р-2 text-white text-center">
+    <h2>Редактирование товара</h2>
+</div>
+<form asp-action="Edit" asp-controller="Admin" asp-route-id="@Model.Id" class="m-4">
+    <div class="row text-center justify-content-lg-center">
+
+        <div class="mr-5">
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Наименование</label>
+                <input type="text" asp-for="Name" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Season" class="control-label">Сезон</label>
+                <input type="text" asp-for="Season" class="form-control" />
+            </div>
+        </div>
+        <div>
+            <div class="form-group">
+                <label asp-for="Production" class="control-label">Фирма</label>
+                <input type="text" asp-for="Production" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label">Гендер</label>
+                <input type="text" asp-for="Gender" class="form-control" />
+            </div>
+        </div>
+    </div>
+    <div class="form-group w-50 text-center mx-auto">
+        <label asp-for="Desc" class="control-label">Описание</label>
+        <input type="text" asp-for="Desc" class="form-control" />
+    </div>
+
+    <div class="row text-center justify-content-lg-center">
+        <div class="form-group mr-3">
+            <label asp-for="Price" class="control-label">Цена</label>
+            <input type="text" asp-for="Price" class="form-control" />
+        </div>
+        <div class="form-group mr-3">
+            <label asp-for="Image" class="control-label">Картинка</label>
+            <input type="text" asp-for="Image" class="form-control" />
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Amount" class="control-label">Количество</label>
+            <input type="text" asp-for="Amount" class="form-control" />
+        </div>
+        <div class="form-group">
+            <label asp-for="Size" class="control-label">Размер</label>
+            <input type="text" asp-for="Size" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group text-center">
+        <input type="submit" value="Сохранить" class="btn btn-outline-success" />
+    </div>
+</form>
